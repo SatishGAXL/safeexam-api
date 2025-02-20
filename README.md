@@ -114,7 +114,7 @@ See `.env.sample` for complete configuration options.
 
 ```bash
 # Start the server
-npm start
+npm run dev
 
 # The server will run on http://localhost:3000
 ```
